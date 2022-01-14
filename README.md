@@ -1,4 +1,4 @@
-# Hamburger Icon - v1
+# Hamburger Icon V1
 
 A simple hamburger icon
 
